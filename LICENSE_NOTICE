@@ -1,0 +1,14 @@
+LICENSE NOTICE
+
+The original codebase for this project was developed by Uniswap Labs as part of Uniswap V3 Core.
+It was initially released under the Business Source License 1.1 (BSL 1.1) with a Change Date of April 1, 2023.
+
+As per the terms of the BSL 1.1, after the Change Date, the license automatically converted to 
+GNU General Public License v2.0 or later (GPL-2.0-or-later).
+
+This project contains modifications to the original codebase. Both the original code and all
+modifications are now licensed under GPL-2.0-or-later, which is included in the LICENSE file
+in this repository.
+
+For more information about the original license transition, see:
+https://support.uniswap.org/hc/en-us/articles/14569783029645-Uniswap-v3-licensing
